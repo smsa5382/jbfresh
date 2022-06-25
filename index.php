@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="GlucoTrust">
+    <meta name="keywords" content="JavaBurn">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>JAVABURN</title>
@@ -33,9 +33,9 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="JAVABURN.html" data-home-page-title="JAVABURN" class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-06b3"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://bit.ly/3u3y4Qy" class="u-black u-border-2 u-border-hover-custom-color-5 u-border-white u-btn u-btn-round u-button-style u-hover-custom-color-5 u-radius-50 u-btn-1">OFFICIAL WEBSITE</a>
+        <a href="https://bit.ly/3xTDpLA" class="u-black u-border-2 u-border-hover-custom-color-5 u-border-white u-btn u-btn-round u-button-style u-hover-custom-color-5 u-radius-50 u-btn-1">OFFICIAL WEBSITE</a>
         <h3 class="u-text u-text-default u-text-1">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-5 u-btn-2" href="https://bit.ly/3u3y4Qy"><b>100% MONEY BACK&nbsp;GUARANTEE</b>
+          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-5 u-btn-2" href="https://bit.ly/3xTDpLA"><b>100% MONEY BACK&nbsp;GUARANTEE</b>
           </a>
         </h3>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -74,7 +74,7 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-29-lg u-size-29-xl u-size-60-md u-size-60-sm u-size-60-xs u-size-xs-60 u-white u-layout-cell-1" src="">
                 <div class="u-container-layout u-container-layout-1">
                   <h1 class="u-align-center u-text u-text-custom-color-4 u-text-1">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-5 u-btn-1" href="https://bit.ly/3u3y4Qy"><b>JAVABURN</b>
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-5 u-btn-1" href="https://bit.ly/3xTDpLA"><b>JAVABURN</b>
                     </a>
                   </h1>
                   <h1 class="u-align-center u-text u-text-2"><b> ORDER T​ODAY AND SAVE UPTO 762$!</b>
@@ -98,12 +98,12 @@ we’ll issue you a prompt and courteous refund right away.
  are extremely easy to get a hold of and will always be here to support 
 you no matter what.
                   </p>
-                  <a href="https://bit.ly/3u3y4Qy" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-5 u-hover-none u-btn-2"> YES, GIVE ME MY DISCOUNT LINK!</a>
-                  <a href="https://bit.ly/3u3y4Qy" class="u-btn u-button-style u-none u-text-custom-color-5 u-text-hover-black u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-4 u-icon-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  <a href="https://bit.ly/3xTDpLA" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-5 u-hover-none u-btn-2"> YES, GIVE ME MY DISCOUNT LINK!</a>
+                  <a href="https://bit.ly/3xTDpLA" class="u-btn u-button-style u-none u-text-custom-color-5 u-text-hover-black u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-4 u-icon-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
                   </a>
                 </div>
               </div>
-              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-31-lg u-size-31-xl u-size-60-md u-size-60-sm u-size-60-xs u-size-xs-60 u-image-1" src="" data-image-width="715" data-image-height="659" data-href="https://bit.ly/3u3y4Qy">
+              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-31-lg u-size-31-xl u-size-60-md u-size-60-sm u-size-60-xs u-size-xs-60 u-image-1" src="" data-image-width="715" data-image-height="659" data-href="https://bit.ly/3xTDpLA">
                 <div class="u-container-layout u-container-layout-2" src=""></div>
               </div>
             </div>
@@ -114,21 +114,21 @@ you no matter what.
     <section class="u-align-center u-clearfix u-gradient u-section-2" id="sec-cafd">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-text u-text-body-alt-color u-text-1">LIMITED TIME SPECIAL PRICING - ACT NOW!</h1>
-        <h1 class="u-text u-text-body-alt-color u-text-default u-text-2"> CLAIM YOUR DISCOUNTED <a href="https://bit.ly/3u3y4Qy" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1"><u>JAVABURN</u>&nbsp;
+        <h1 class="u-text u-text-body-alt-color u-text-default u-text-2"> CLAIM YOUR DISCOUNTED <a href="https://bit.ly/3xTDpLA" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1"><u>JAVABURN</u>&nbsp;
           </a>WHILE THEY LAST
         </h1>
       </div>
     </section>
     <section class="u-clearfix u-section-3" id="sec-0ee1">
       <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/23.PNG" alt="" data-image-width="1102" data-image-height="711" data-href="https://bit.ly/3u3y4Qy">
+        <img class="u-image u-image-default u-image-1" src="images/23.PNG" alt="" data-image-width="1102" data-image-height="711" data-href="https://bit.ly/3xTDpLA">
       </div>
     </section>
     <section class="u-align-center u-clearfix u-custom-color-5 u-section-4" id="carousel_d25c">
       <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-sheet-1">
         <h1 class="u-text u-text-body-alt-color u-text-1">
           <span style="font-weight: normal;"> WHAT PEOPLE WHO ALREADY USED </span>
-          <a href="https://bit.ly/3u3y4Qy" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">JAVABURN&nbsp;</a>
+          <a href="https://bit.ly/3xTDpLA" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">JAVABURN&nbsp;</a>
           <span style="font-weight: normal;">SAY</span>
         </h1>
       </div>
@@ -271,7 +271,7 @@ get a hold of. There’s simply no risk to you. It’s time to get started!
     </section>
     <section class="u-clearfix u-section-9" id="carousel_7aa3">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/23-3.PNG" alt="" data-image-width="1102" data-image-height="711" data-href="https://bit.ly/3u3y4Qy">
+        <img class="u-image u-image-default u-image-1" src="images/23-3.PNG" alt="" data-image-width="1102" data-image-height="711" data-href="https://bit.ly/3xTDpLA">
       </div>
     </section>
     
